@@ -36,6 +36,8 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 Describe any challenges encountered while building the app.
 
+I had to learn Swift from the start which was difficult because I do not have much experience with mobile programming. I relied on video tutorials for making the tip calculator which were very helpful, but they were slightly outdated so some features were different in my version of Swift. Interacting with Git and GitHub was also difficult since I was unfamiliar with the different commands and their uses.
+
 ## License
 
     Copyright [2019] [Mark Cheng]
